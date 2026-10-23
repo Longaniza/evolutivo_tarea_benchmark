@@ -1,0 +1,5 @@
+# Caché de Python
+__pycache__/
+
+# Entorno virtual
+evolutivo_env/

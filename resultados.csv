@@ -1,0 +1,60 @@
+Función,Rastrigin
+Variables,2
+Peor fitness,Mejor fitness,Promedio fitness
+8.30056023914949e-11,0.0,7.126625215884512e-12
+
+Función,Rastrigin
+Variables,4
+Peor fitness,Mejor fitness,Promedio fitness
+5.962565519723739e-05,6.987784786360862e-07,1.4780749269031428e-05
+
+Función,Rastrigin
+Variables,6
+Peor fitness,Mejor fitness,Promedio fitness
+0.16768592669075844,0.0009286111551816134,0.015592794978334249
+
+Función,Griewank
+Variables,2
+Peor fitness,Mejor fitness,Promedio fitness
+0.18734006976284379,0.0,0.05136708447873177
+
+Función,Griewank
+Variables,4
+Peor fitness,Mejor fitness,Promedio fitness
+2.1797676459315847,0.012320999940813149,0.6675089294880526
+
+Función,Griewank
+Variables,6
+Peor fitness,Mejor fitness,Promedio fitness
+9.094853467081167,0.17493532671914336,2.884081332383215
+
+Función,Zakharov
+Variables,2
+Peor fitness,Mejor fitness,Promedio fitness
+3.058171755433229e-11,9.969317432674403e-22,2.1247680578163286e-12
+
+Función,Zakharov
+Variables,4
+Peor fitness,Mejor fitness,Promedio fitness
+7.326332947051498e-07,1.3822705736214404e-09,1.2833161594411496e-07
+
+Función,Zakharov
+Variables,6
+Peor fitness,Mejor fitness,Promedio fitness
+0.0004820923824135873,8.739366109750125e-06,7.273784803825575e-05
+
+Función,Alpine N.1
+Variables,2
+Peor fitness,Mejor fitness,Promedio fitness
+2.1777071240736134e-07,3.4166129592895392e-15,1.0516041502758756e-08
+
+Función,Alpine N.1
+Variables,4
+Peor fitness,Mejor fitness,Promedio fitness
+0.00038704113912101806,4.4644822977483255e-05,0.00012328345289895146
+
+Función,Alpine N.1
+Variables,6
+Peor fitness,Mejor fitness,Promedio fitness
+0.0023651298338132586,0.000352737865290946,0.0011379978327184087
+
